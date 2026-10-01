@@ -1,6 +1,14 @@
-{
-  "appid": 3751950,
-  "name": "Assassin's Creed Black Flag Resynced",
-  "tags": ["bypass"],
-  "download_url": "https://github.com/BlissBlender/Charon-Fixes/raw/refs/heads/main/3751950.zip"
-}
+[
+  {
+    "appid": 3751950,
+    "name": "Assassin's Creed Black Flag Resynced",
+    "tags": ["bypass"],
+    "download_url": "https://github.com/charon-co/Fixes-Database/raw/refs/heads/main/3751950.zip"
+  },
+  {
+    "appid": 3321460,
+    "name": "Crimson Desert Enhanced",
+    "tags": ["bypass"],
+    "download_url": "https://github.com/charon-co/Fixes-Database/raw/refs/heads/main/3321460.zip"
+  }
+]
