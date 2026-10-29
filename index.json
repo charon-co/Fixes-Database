@@ -10,5 +10,11 @@
     "name": "Crimson Desert Enhanced",
     "tags": ["bypass"],
     "download_url": "https://github.com/charon-co/Fixes-Database/raw/refs/heads/main/3321460.zip"
+  },
+  {
+    "appid": 4435490,
+    "name": "Call of Duty: Modern Warfare 4",
+    "tags": ["bypass"],
+    "download_url": "https://github.com/charon-co/Fixes-Database/raw/refs/heads/main/4435490.zip"
   }
 ]
