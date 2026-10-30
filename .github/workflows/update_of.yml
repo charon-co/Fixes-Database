@@ -1,4 +1,4 @@
-name: Auto-Sync Online-Fix Database
+name: Auto-Sync OF Database
 
 on:
   schedule:
@@ -25,8 +25,8 @@ jobs:
       - name: Install Dependencies
         run: npm install cheerio
 
-      - name: Sync Online-Fix Index
-        run: node sync_onlinefix.js
+      - name: Sync OF Index
+        run: node sync_of.js
 
       - name: Commit and Push Changes
         run: |

@@ -4,7 +4,7 @@
   "description": "Charon Fixes Database and Online-Fix Index",
   "private": true,
   "scripts": {
-    "sync": "node sync_onlinefix.js"
+    "sync": "node sync_of.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0"
