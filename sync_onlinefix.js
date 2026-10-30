@@ -1,6 +1,15 @@
 const fs = require('fs');
 const path = require('path');
-const cheerio = require('cheerio');
+let cheerio;
+try {
+  cheerio = require('cheerio');
+} catch (_) {
+  try {
+    cheerio = require('E:/CharonTool/node_modules/cheerio');
+  } catch (e) {
+    throw new Error('cheerio is required');
+  }
+}
 
 const ROMAN_TO_ARABIC = {
   'I': '1', 'II': '2', 'III': '3', 'IV': '4', 'V': '5',
@@ -67,7 +76,7 @@ async function syncOnlineFixIndex() {
   const isFull = process.argv.includes('--full');
   const pagesToScan = isFull ? 69 : 3;
 
-  const indexPath = path.join(__dirname, 'onlinefix_index.json');
+  const indexPath = path.join(__dirname, 'of_index.json');
   let indexData = {
     version: 1,
     generatedAt: new Date().toISOString(),

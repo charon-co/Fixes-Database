@@ -32,10 +32,10 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          if git diff --quiet onlinefix_index.json; then
+          if git diff --quiet of_index.json; then
             echo "No changes detected. Database is up to date."
           else
-            git add onlinefix_index.json
-            git commit -m "chore(onlinefix): auto-sync latest releases [skip ci]"
+            git add of_index.json
+            git commit -m "chore(of): auto-sync latest releases [skip ci]"
             git push
           fi
