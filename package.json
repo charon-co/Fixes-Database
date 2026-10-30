@@ -1,0 +1,12 @@
+{
+  "name": "fixes-database",
+  "version": "1.0.0",
+  "description": "Charon Fixes Database and Online-Fix Index",
+  "private": true,
+  "scripts": {
+    "sync": "node sync_onlinefix.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

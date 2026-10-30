@@ -1,0 +1,41 @@
+name: Auto-Sync Online-Fix Database
+
+on:
+  schedule:
+    # Run every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    # Allows manual trigger anytime from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync-database:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Dependencies
+        run: npm install cheerio
+
+      - name: Sync Online-Fix Index
+        run: node sync_onlinefix.js
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          if git diff --quiet onlinefix_index.json; then
+            echo "No changes detected. Database is up to date."
+          else
+            git add onlinefix_index.json
+            git commit -m "chore(onlinefix): auto-sync latest releases [skip ci]"
+            git push
+          fi
