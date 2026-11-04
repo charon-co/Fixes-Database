@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-30T17:20:00.952Z",
-  "totalGames": 2047,
-  "mappedAppIds": 1892,
+  "generatedAt": "2026-11-04T23:27:11.286Z",
+  "totalGames": 2171,
+  "mappedAppIds": 1890,
   "by_appid": {
     "70": {
       "id": "17693",
@@ -8887,6 +8887,15 @@
       "image": "https://online-fix.me/uploads/posts/2020-11/3926446557_poster.jpg",
       "appId": "1359090"
     },
+    "1359980": {
+      "id": "18292",
+      "title": "POSTAL: Brain Damaged",
+      "originalTitle": "POSTAL Brain Damaged по сети",
+      "url": "https://online-fix.me/games/shooter/18292-postal-brain-damaged-po-seti.html",
+      "category": "shooter",
+      "image": "https://online-fix.me/uploads/posts/2026-10/2678284458_poster.jpg",
+      "appId": "1359980"
+    },
     "1361000": {
       "id": "16498",
       "title": "In Silence",
@@ -16698,6 +16707,15 @@
       "category": "adventures",
       "image": "https://online-fix.me/uploads/posts/2026-08/3241876420_poster.jpg",
       "appId": "4286040"
+    },
+    "4312190": {
+      "id": "18293",
+      "title": "CRACK",
+      "originalTitle": "CRACK по сети",
+      "url": "https://online-fix.me/games/adventures/18293-crack-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2684165420_poster.jpg",
+      "appId": "4312190"
     },
     "4317790": {
       "id": "18203",
@@ -36518,6 +36536,24 @@
       "category": "arcade",
       "image": "http://online-fix.me/uploads/posts/2019-10/3627635974_poster.jpg",
       "appId": "673950"
+    },
+    "crack": {
+      "id": "18293",
+      "title": "CRACK",
+      "originalTitle": "CRACK по сети",
+      "url": "https://online-fix.me/games/adventures/18293-crack-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2684165420_poster.jpg",
+      "appId": "4312190"
+    },
+    "postal brain damaged": {
+      "id": "18292",
+      "title": "POSTAL: Brain Damaged",
+      "originalTitle": "POSTAL Brain Damaged по сети",
+      "url": "https://online-fix.me/games/shooter/18292-postal-brain-damaged-po-seti.html",
+      "category": "shooter",
+      "image": "https://online-fix.me/uploads/posts/2026-10/2678284458_poster.jpg",
+      "appId": "1359980"
     }
   }
 }
