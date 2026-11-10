@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-04T23:27:11.286Z",
-  "totalGames": 2171,
-  "mappedAppIds": 1890,
+  "generatedAt": "2026-11-10T14:38:20.422Z",
+  "totalGames": 2179,
+  "mappedAppIds": 1896,
   "by_appid": {
     "70": {
       "id": "17693",
@@ -12640,6 +12640,15 @@
       "image": "https://online-fix.me/uploads/posts/2026-01/2147547875_poster.jpg",
       "appId": "2221390"
     },
+    "2223980": {
+      "id": "18296",
+      "title": "Nomad Drive",
+      "originalTitle": "Nomad Drive по сети",
+      "url": "https://online-fix.me/games/officialservers/18296-nomad-drive-po-seti.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/927161134_poster.jpg",
+      "appId": "2223980"
+    },
     "2230110": {
       "id": "17333",
       "title": "Fae Farm",
@@ -15520,6 +15529,15 @@
       "image": "https://online-fix.me/uploads/posts/2025-04/1008594216_poster.jpg",
       "appId": "3298460"
     },
+    "3314580": {
+      "id": "18294",
+      "title": "Trash Day",
+      "originalTitle": "Trash Day по сети",
+      "url": "https://online-fix.me/games/adventures/18294-trash-day-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/541013033_poster.jpg",
+      "appId": "3314580"
+    },
     "3333740": {
       "id": "17972",
       "title": "Exit Together",
@@ -16519,6 +16537,15 @@
       "image": "https://online-fix.me/uploads/posts/2026-07/306113533_poster.jpg",
       "appId": "4090360"
     },
+    "4096830": {
+      "id": "18299",
+      "title": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
+      "originalTitle": "S.O.N.A.R. - Submarine Operators Not Actually Ready по сети",
+      "url": "https://online-fix.me/games/adventures/18299-sonar-submarine-operators-not-actually-ready-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/3978552986_poster.jpg",
+      "appId": "4096830"
+    },
     "4108000": {
       "id": "18180",
       "title": "Machine Party",
@@ -16888,6 +16915,15 @@
       "image": "https://online-fix.me/uploads/posts/2026-10/765836037_poster.jpg",
       "appId": "4705510"
     },
+    "4715160": {
+      "id": "18295",
+      "title": "Finals Week ✍🏻",
+      "originalTitle": "Finals Week по сети",
+      "url": "https://online-fix.me/games/adventures/18295-finals-week-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2992585067_poster.jpg",
+      "appId": "4715160"
+    },
     "4778540": {
       "id": "18282",
       "title": "Lucid Cats",
@@ -16996,6 +17032,15 @@
       "image": "https://online-fix.me/uploads/posts/2026-10/2281789875_poster.jpg",
       "appId": "5085740"
     },
+    "5127370": {
+      "id": "18297",
+      "title": "Who's Cheating?",
+      "originalTitle": "Whos Cheating? по сети",
+      "url": "https://online-fix.me/games/simulator/18297-whos-cheating-po-seti.html",
+      "category": "simulator",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2422311142_poster.jpg",
+      "appId": "5127370"
+    },
     "5155360": {
       "id": "18280",
       "title": "Hood Warfare 2",
@@ -17004,6 +17049,15 @@
       "category": "officialservers",
       "image": "https://online-fix.me/uploads/posts/2026-10/2702306276_poster.jpg",
       "appId": "5155360"
+    },
+    "5306540": {
+      "id": "18298",
+      "title": "Groundwork Simulator",
+      "originalTitle": "Groundwork Simulator по сети",
+      "url": "https://online-fix.me/games/sandbox/18298-groundwork-simulator-po-seti.html",
+      "category": "sandbox",
+      "image": "https://online-fix.me/uploads/posts/2026-11/704388911_poster.jpg",
+      "appId": "5306540"
     },
     "5335510": {
       "id": "18290",
@@ -36554,6 +36608,78 @@
       "category": "shooter",
       "image": "https://online-fix.me/uploads/posts/2026-10/2678284458_poster.jpg",
       "appId": "1359980"
+    },
+    "finals week": {
+      "id": "18295",
+      "title": "Finals Week ✍🏻",
+      "originalTitle": "Finals Week по сети",
+      "url": "https://online-fix.me/games/adventures/18295-finals-week-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2992585067_poster.jpg",
+      "appId": "4715160"
+    },
+    "s.o.n.a.r. - submarine operators not actually ready": {
+      "id": "18299",
+      "title": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
+      "originalTitle": "S.O.N.A.R. - Submarine Operators Not Actually Ready по сети",
+      "url": "https://online-fix.me/games/adventures/18299-sonar-submarine-operators-not-actually-ready-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/3978552986_poster.jpg",
+      "appId": "4096830"
+    },
+    "sonar submarine operators not actually ready": {
+      "id": "18299",
+      "title": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
+      "originalTitle": "S.O.N.A.R. - Submarine Operators Not Actually Ready по сети",
+      "url": "https://online-fix.me/games/adventures/18299-sonar-submarine-operators-not-actually-ready-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/3978552986_poster.jpg",
+      "appId": "4096830"
+    },
+    "groundwork simulator": {
+      "id": "18298",
+      "title": "Groundwork Simulator",
+      "originalTitle": "Groundwork Simulator по сети",
+      "url": "https://online-fix.me/games/sandbox/18298-groundwork-simulator-po-seti.html",
+      "category": "sandbox",
+      "image": "https://online-fix.me/uploads/posts/2026-11/704388911_poster.jpg",
+      "appId": "5306540"
+    },
+    "nomad drive": {
+      "id": "18296",
+      "title": "Nomad Drive",
+      "originalTitle": "Nomad Drive по сети",
+      "url": "https://online-fix.me/games/officialservers/18296-nomad-drive-po-seti.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/927161134_poster.jpg",
+      "appId": "2223980"
+    },
+    "trash day": {
+      "id": "18294",
+      "title": "Trash Day",
+      "originalTitle": "Trash Day по сети",
+      "url": "https://online-fix.me/games/adventures/18294-trash-day-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/541013033_poster.jpg",
+      "appId": "3314580"
+    },
+    "whos cheating?": {
+      "id": "18297",
+      "title": "Who's Cheating?",
+      "originalTitle": "Whos Cheating? по сети",
+      "url": "https://online-fix.me/games/simulator/18297-whos-cheating-po-seti.html",
+      "category": "simulator",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2422311142_poster.jpg",
+      "appId": "5127370"
+    },
+    "whos cheating": {
+      "id": "18297",
+      "title": "Who's Cheating?",
+      "originalTitle": "Whos Cheating? по сети",
+      "url": "https://online-fix.me/games/simulator/18297-whos-cheating-po-seti.html",
+      "category": "simulator",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2422311142_poster.jpg",
+      "appId": "5127370"
     }
   }
 }
