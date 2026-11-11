@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T14:38:20.422Z",
-  "totalGames": 2179,
+  "generatedAt": "2026-11-11T05:31:45.107Z",
+  "totalGames": 2180,
   "mappedAppIds": 1896,
   "by_appid": {
     "70": {
@@ -36680,6 +36680,15 @@
       "category": "simulator",
       "image": "https://online-fix.me/uploads/posts/2026-11/2422311142_poster.jpg",
       "appId": "5127370"
+    },
+    "double dealers": {
+      "id": "18300",
+      "title": "Double Dealers",
+      "originalTitle": "Double Dealers по сети",
+      "url": "https://online-fix.me/games/arcade/18300-double-dealers-po-seti.html",
+      "category": "arcade",
+      "image": "https://online-fix.me/uploads/posts/2026-11/1230146377_poster.jpg",
+      "appId": null
     }
   }
 }
