@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-11T05:31:45.107Z",
-  "totalGames": 2180,
-  "mappedAppIds": 1896,
+  "generatedAt": "2026-11-12T23:23:46.345Z",
+  "totalGames": 2181,
+  "mappedAppIds": 1897,
   "by_appid": {
     "70": {
       "id": "17693",
@@ -14322,6 +14322,15 @@
       "category": "fighting",
       "image": "https://online-fix.me/uploads/posts/2025-09/1355775654_poster.jpg",
       "appId": "2820700"
+    },
+    "2821390": {
+      "id": "18301",
+      "title": "HOT WHEELS™ Infinite Rush",
+      "originalTitle": "HOT WHEELS Infinite Rush Online",
+      "url": "https://online-fix.me/games/officialservers/18301-hot-wheels-infinite-rush-online.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/3663966681_poster.jpg",
+      "appId": "2821390"
     },
     "2823080": {
       "id": "17501",
@@ -36689,6 +36698,15 @@
       "category": "arcade",
       "image": "https://online-fix.me/uploads/posts/2026-11/1230146377_poster.jpg",
       "appId": null
+    },
+    "hot wheels infinite rush": {
+      "id": "18301",
+      "title": "HOT WHEELS™ Infinite Rush",
+      "originalTitle": "HOT WHEELS Infinite Rush Online",
+      "url": "https://online-fix.me/games/officialservers/18301-hot-wheels-infinite-rush-online.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/3663966681_poster.jpg",
+      "appId": "2821390"
     }
   }
 }
