@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-13T23:25:21.341Z",
-  "totalGames": 2181,
-  "mappedAppIds": 1897,
+  "generatedAt": "2026-11-17T01:45:47.800Z",
+  "totalGames": 2183,
+  "mappedAppIds": 1898,
   "by_appid": {
     "70": {
       "id": "17693",
@@ -2273,12 +2273,12 @@
       "appId": "364360"
     },
     "365050": {
-      "id": "16967",
+      "id": "18304",
       "title": "Escape",
-      "originalTitle": "Escape The Ayuwoki Horror Night по сети",
-      "url": "https://online-fix.me/games/horror/16967-escape-the-ayuwoki-horror-night-po-seti.html",
-      "category": "horror",
-      "image": "https://online-fix.me/uploads/posts/2022-04/4060995131_poster.jpg",
+      "originalTitle": "Escape Academy 2 Back 2 School по сети",
+      "url": "https://online-fix.me/games/puzzles/18304-escape-academy-2-back-2-school-po-seti.html",
+      "category": "puzzles",
+      "image": "https://online-fix.me/uploads/posts/2026-11/636505139_poster.jpg",
       "appId": "365050"
     },
     "366090": {
@@ -11208,6 +11208,15 @@
       "category": "adventures",
       "image": "https://online-fix.me/uploads/posts/2025-07/2441375748_poster.jpg",
       "appId": "1796470"
+    },
+    "1798230": {
+      "id": "18305",
+      "title": "ATMOSFAR",
+      "originalTitle": "ATMOSFAR по сети",
+      "url": "https://online-fix.me/games/adventures/18305-atmosfar-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/1603796980_poster.jpg",
+      "appId": "1798230"
     },
     "1799930": {
       "id": "17049",
@@ -36707,6 +36716,24 @@
       "category": "officialservers",
       "image": "https://online-fix.me/uploads/posts/2026-11/3663966681_poster.jpg",
       "appId": "2821390"
+    },
+    "escape academy 2 back 2 school": {
+      "id": "18304",
+      "title": "Escape",
+      "originalTitle": "Escape Academy 2 Back 2 School по сети",
+      "url": "https://online-fix.me/games/puzzles/18304-escape-academy-2-back-2-school-po-seti.html",
+      "category": "puzzles",
+      "image": "https://online-fix.me/uploads/posts/2026-11/636505139_poster.jpg",
+      "appId": "365050"
+    },
+    "atmosfar": {
+      "id": "18305",
+      "title": "ATMOSFAR",
+      "originalTitle": "ATMOSFAR по сети",
+      "url": "https://online-fix.me/games/adventures/18305-atmosfar-po-seti.html",
+      "category": "adventures",
+      "image": "https://online-fix.me/uploads/posts/2026-11/1603796980_poster.jpg",
+      "appId": "1798230"
     }
   }
 }
