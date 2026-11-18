@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-17T01:45:47.800Z",
-  "totalGames": 2183,
-  "mappedAppIds": 1898,
+  "generatedAt": "2026-11-18T00:47:18.245Z",
+  "totalGames": 2185,
+  "mappedAppIds": 1899,
   "by_appid": {
     "70": {
       "id": "17693",
@@ -17049,6 +17049,15 @@
       "category": "adventures",
       "image": "https://online-fix.me/uploads/posts/2026-10/2281789875_poster.jpg",
       "appId": "5085740"
+    },
+    "5118500": {
+      "id": "18306",
+      "title": "Safari-TV",
+      "originalTitle": "Safari-TV Online",
+      "url": "https://online-fix.me/games/officialservers/18306-safari-tv-online.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2051531000_poster.jpg",
+      "appId": "5118500"
     },
     "5127370": {
       "id": "18297",
@@ -36734,6 +36743,24 @@
       "category": "adventures",
       "image": "https://online-fix.me/uploads/posts/2026-11/1603796980_poster.jpg",
       "appId": "1798230"
+    },
+    "safari-tv": {
+      "id": "18306",
+      "title": "Safari-TV",
+      "originalTitle": "Safari-TV Online",
+      "url": "https://online-fix.me/games/officialservers/18306-safari-tv-online.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2051531000_poster.jpg",
+      "appId": "5118500"
+    },
+    "safari tv": {
+      "id": "18306",
+      "title": "Safari-TV",
+      "originalTitle": "Safari-TV Online",
+      "url": "https://online-fix.me/games/officialservers/18306-safari-tv-online.html",
+      "category": "officialservers",
+      "image": "https://online-fix.me/uploads/posts/2026-11/2051531000_poster.jpg",
+      "appId": "5118500"
     }
   }
 }
